@@ -41,12 +41,12 @@ folder as the notebook before running.
 
 ## Figures
 All generated figures are in the `figures/` folder:
-- fig1_class_distribution.png
-- fig2_amount_by_class.png
-- fig3_correlation_heatmap.png
-- fig4_confusion_matrices.png
-- fig5_roc_curves.png
-- fig6_feature_importance.png
+- fig1_class_distribution.pdf
+- fig2_amount_by_class.pdf
+- fig3_correlation_heatmap.pdf
+- fig4_confusion_matrices.pdf
+- fig5_roc_curves.pdf
+- fig6_feature_importance.pdf
 
 ## Course
 **Professor:** Raja Hashim Ali  
